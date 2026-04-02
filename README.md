@@ -20,3 +20,5 @@ monthly sales data using NumPy.
 ## How to run
 pip install numpy
 sales_data.py
+## Output Preview
+![Sales Analysis Output](output.png)
