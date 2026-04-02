@@ -21,4 +21,4 @@ monthly sales data using NumPy.
 pip install numpy
 sales_data.py
 ## Output Preview
-![Sales Analysis Output](output.jpg)
+![Sales Analysis Output](Output.jpg)
