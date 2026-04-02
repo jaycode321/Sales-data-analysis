@@ -19,4 +19,4 @@ monthly sales data using NumPy.
 
 ## How to run
 pip install numpy
-sales data.py
+sales_data.py
